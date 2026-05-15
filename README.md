@@ -47,13 +47,15 @@
 
 
 
+
 ## 🌌 About Me
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=16&duration=1&pause=100000000&color=7E22F7&center=true&vCenter=true&repeat=false&width=700&height=140&lines=%3E+frontend+developer;%3E+react+%2F+javascript+%2F+typescript;%3E+loves+purple+terminal+aesthetics;%3E+coding+with+lofi+at+3AM;%3E+backend+skills+still+downloading..." />
+<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=16&duration=1&pause=100000000&color=7E22F7&center=true&vCenter=true&repeat=false&width=800&height=140&lines=%3E+front+end+developer;%3E+weeb+%F0%9F%8E%8C;%3E+vibe+coder+%E2%98%82%EF%B8%8F;%3E+fav+anime+%3A+tsukimichi+moonlit+fantasy;%3E+%3C3" />
 
 </div>
+
 
 
 ---
