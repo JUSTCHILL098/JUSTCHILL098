@@ -106,9 +106,9 @@
 ```
 
 
-<div align="center">
 
-```txt
+
+```
 ⚡ powered by caffeine, insomnia & bad decisions
 ```
 
