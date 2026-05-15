@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JUSTCHILL098/JUSTCHILL098/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"/>
 
 </div>
 
