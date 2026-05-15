@@ -103,7 +103,6 @@
 </div>
 
 ---
-```
 
 
 
@@ -111,6 +110,4 @@
 ```
 ⚡ powered by caffeine, insomnia & bad decisions
 ```
-
-</div>
 
