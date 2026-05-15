@@ -46,9 +46,17 @@
 <br>
 
 
-<div align="center">
+## 🌌 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=100000000&color=7E22F7&center=true&vCenter=true&repeat=false&width=500&lines=%3E+frontend+developer;%3E+react+%2F+javascript+%2F+typescript;%3E+loves+purple+terminal+aesthetics;%3E+coding+with+lofi+at+3AM;%3E+backend+skills+still+downloading..." />
+```bash
+> frontend developer
+> react / javascript / typescript
+> loves purple terminal aesthetics
+> coding with lofi at 3AM
+> backend skills still downloading...
+ 
+```
+```
 
 </div>
 
