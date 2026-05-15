@@ -80,27 +80,7 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://t.me/theunhonoredsoul">
-  <img src="https://img.shields.io/badge/Telegram-7E22F7?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/cosmicx.void">
-  <img src="https://img.shields.io/badge/Instagram-7E22F7?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://discord.com/users/1489549280363548774">
-  <img src="https://img.shields.io/badge/Discord-7E22F7?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="https://github.com/JUSTCHILL098">
-  <img src="https://img.shields.io/badge/GitHub-7E22F7?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+## 📊 GitHub Analytics <div align="center"> <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JUSTCHILL098&show_icons=true&theme=midnight-purple&hide_border=true"/> <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JUSTCHILL098&layout=compact&theme=midnight-purple&hide_border=true"/> <br><br> <img width="70%" src="https://streak-stats.demolab.com?user=JUSTCHILL098&theme=midnight-purple&hide_border=true"/> </div>
 
 ---
 
