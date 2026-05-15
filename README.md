@@ -61,26 +61,20 @@
 
 ---
 
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JUSTCHILL098&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JUSTCHILL098&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUSTCHILL098&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUSTCHILL098&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=JUSTCHILL098&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/JUSTCHILL098/JUSTCHILL098/main/resources/img/github-contribution-grid-snake.svg"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=JUSTCHILL098&theme=midnight-purple&hide_border=true&background=00000000"/>
 
 </div>
 
@@ -90,6 +84,18 @@
 
 <div align="center">
 
+<a href="https://t.me/theunhonoredsoul">
+  <img src="https://img.shields.io/badge/Telegram-7E22F7?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/cosmicx.void">
+  <img src="https://img.shields.io/badge/Instagram-7E22F7?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/1489549280363548774">
+  <img src="https://img.shields.io/badge/Discord-7E22F7?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
 <a href="https://github.com/JUSTCHILL098">
   <img src="https://img.shields.io/badge/GitHub-7E22F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -97,6 +103,8 @@
 </div>
 
 ---
+```
+
 
 <div align="center">
 
