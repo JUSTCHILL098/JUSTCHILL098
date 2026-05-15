@@ -50,12 +50,11 @@
 
 ## 🌌 About Me
 
-"<iframe
-  src="https://carbon.now.sh/embed?bg=rgba%280%2C0%2C0%2C1%29&t=theme%3Aebn7s9a5fgt&wt=none&l=javascript&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Space+Mono&fs=12px&lh=129%25&si=false&es=2x&wm=false&code=%250A%253E%2520front%2520end%2520developer%250A%253E%2520weeb%250A%253E%2520vibe%2520coder%250A%253E%2520fav%2520anime%2520%253A%2520tsukimichi%2520moonlit%2520fantasy%250A%253E%2520purple%2520aesthetic%2520enjoyer%250A%253E%2520backend%2520skills%2520still%2520downloading...%250A"
-  style="width: 444px; height: 310px; border:0; transform: scale(1); overflow:hidden;"
-  sandbox="allow-scripts allow-same-origin">
-</iframe>" />
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/JUSTCHILL098/JUSTCHILL098/refs/heads/main/resources/img/ChatGPT%20Image%20May%2015%2C%202026%2C%2009_34_35%20PM.png"/>
+
+</div>
 
 
 
