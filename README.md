@@ -54,9 +54,9 @@
 > loves purple terminal aesthetics
 > coding with lofi at 3AM
 > backend skills still downloading...
- 
+ ```
 ```
-```
+````
 
 </div>
 
