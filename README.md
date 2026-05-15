@@ -59,30 +59,16 @@
 
 
 
----
 
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JUSTCHILL098&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUSTCHILL098&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
-
-<br><br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=JUSTCHILL098&theme=midnight-purple&hide_border=true&background=00000000"/>
-
-</div>
 
 ---
 
 ## 📊 GitHub Analytics <div align="center"> <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JUSTCHILL098&show_icons=true&theme=midnight-purple&hide_border=true"/> <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JUSTCHILL098&layout=compact&theme=midnight-purple&hide_border=true"/> <br><br> <img width="70%" src="https://streak-stats.demolab.com?user=JUSTCHILL098&theme=midnight-purple&hide_border=true"/> </div>
 
 ---
+<img src="https://raw.githubusercontent.com/JUSTCHILL098/JUSTCHILL098/main/resources/img/github-contribution-grid-snake.svg"/>
 
 
 
