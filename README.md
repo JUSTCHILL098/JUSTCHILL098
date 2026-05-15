@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">
-  ⚡ Hey, I'm Linux ⚡
+   Hey, I'm Linux 
 </h1>
 
 <div align="center">
